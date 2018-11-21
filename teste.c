@@ -18,6 +18,7 @@ int teste2() {
 	return 0;
 }
 
+
 int teste7() {
 	printf("Teste");
 	
@@ -30,4 +31,9 @@ int teste8() {
 	return 0;
 }
 
+int ola() {
+	printf("teste");
+	
+	return 0;
+}
 
