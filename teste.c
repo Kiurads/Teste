@@ -17,3 +17,17 @@ int teste2() {
 	
 	return 0;
 }
+
+int teste7() {
+	printf("Teste");
+	
+	return 0;
+}
+
+int teste8() {
+	printf("Teste");
+	
+	return 0;
+}
+
+
