@@ -17,3 +17,9 @@ int teste2() {
 	
 	return 0;
 }
+
+int ola() {
+	printf("teste");
+	
+	return 0;
+}
