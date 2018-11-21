@@ -5,3 +5,9 @@ int main() {
 	
 	return 0;
 }
+
+int teste1() {
+	printf("Ola");
+	
+	return 0;
+}
