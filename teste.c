@@ -11,3 +11,9 @@ int teste1() {
 	
 	return 0;
 }
+
+int teste2() {
+	printf("Teste");
+	
+	return 0;
+}
